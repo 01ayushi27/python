@@ -1,0 +1,6 @@
+print('Enter length:')
+l = int(input())
+print('Enter breadth:')
+b = int(input())
+peri=2*(l+b)
+print('Perimeter=',peri)
